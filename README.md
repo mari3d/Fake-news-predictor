@@ -1,5 +1,9 @@
 # Fake-news-predictor
 
+Group Project
+
+Al Bakaoui Chayma, Amadou Khadidja, Harutyunyan Mariam
+
 
 ## Introduction
 
